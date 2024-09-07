@@ -11,9 +11,11 @@
 
 - 👯 I have built this client based project [BCA-CORP](https://bcacorp.com.au/)
 
-- 🤝 I have completed Todo App [Todo App](https://todo-app-engineer.vercel.app/)
+- 🤝 I have completed Education Portal Project4 [Education Portal](https://education-portal-beta.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/shoaib1814/details/projects/](https://www.linkedin.com/in/shoaib1814/details/projects/)
+
+- 📝 I have completed Todo App [https://todo-app-engineer.vercel.app/](https://todo-app-engineer.vercel.app/)
 
 - 💬 Ask me about **REACT, NEXT, EXPRESS, MONGODB & FIREBASE**
 
@@ -24,7 +26,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shoaib1814/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shoaib1814/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@engineershoaibakhterqadri18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@engineershoaibakhterqadri18" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/engineershoaibakhterqadri18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="engineershoaibakhterqadri18" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
