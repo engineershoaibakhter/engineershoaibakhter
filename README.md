@@ -11,7 +11,7 @@
 
 - 👯 I have built this client based project [BCA-CORP](https://bcacorp.com.au/)
 
-- 🤝 I have completed Education Portal Project4 [Education Portal](https://education-portal-beta.vercel.app/)
+- 🤝 I have completed Education Portal [Education Portal](https://education-portal-beta.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/shoaib1814/details/projects/](https://www.linkedin.com/in/shoaib1814/details/projects/)
 
