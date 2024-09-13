@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Builder Software](https://builder-software.vercel.app/login)
 
-- 🌱 I’m currently learning **NEXT JS, EXPRESS JS, TYPESCRIPT & MONGODB**
+- 🌱 I’m currently learning **AI and Chatbot Course**
 
 - 👯 I have built this client based project [BCA-CORP](https://bcacorp.com.au/)
 
