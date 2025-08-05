@@ -10,11 +10,11 @@
  ![dialogflow](https://img.shields.io/badge/Dialog%20Flow-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Express JS](https://img.shields.io/badge/Express%20JS-663399.svg?style=for-the-badge&logo=lightning&logoColor=white) ![Material UI](https://img.shields.io/badge/Material%20UI-F03E2F?style=for-the-badge&logo=sanity&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-008CDD.svg?style=for-the-badge&logo=stripe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-- 🔭 I’m currently working on [Builder Software](https://builder-software.vercel.app/login)
+- 🔭 I have completed [Builder Management System](https://buildies.io)
 
-- 🌱 I’m currently learning **AI and Chatbot Course**
+- 🌱 I have completed courses of  **Generative AI and Chatbot Course, Web & Mobile App Development Course, JavaScript Crash Course, MongoDB Node.js Developer Path, Node.js & MongoDB: Developing Back-end Database Applications**
   
-- 👨‍💻 I have built Blogging Application for Guest Posting [BlogifyBlog](https://blogifyblog.me/)
+- 👨‍💻 I have built Blogging Application with Ads Management System & Pament Gateway with Subscriptions Model [BlogNetwork](https://blognetwork.live/)
 
 - 👯 I have built this client based project [BCA-CORP](https://bcacorp.com.au/)
 
@@ -22,9 +22,8 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/shoaib1814/details/projects/](https://www.linkedin.com/in/shoaib1814/details/projects/)
 
-- 📝 I have completed Todo App [https://todo-app-engineer.vercel.app/](https://todo-app-engineer.vercel.app/)
 
-- 💬 Ask me about **REACT, NEXT, EXPRESS, MONGODB & FIREBASE**
+- 💬 Ask me about **REACT, NEXT, Node JS, EXPRESS, MONGODB & FIREBASE**
 
 - 📫 How to reach me **shoaibakhter181422@gmail.com**
 
